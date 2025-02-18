@@ -1,6 +1,8 @@
 # pig-game
 Game of luck where you can play against another player
 
+You can play it here: [https://somecodebaker.github.io/pig-game/]
+
 ## Goal
 Who gets their score to 100 first, wins.
 
